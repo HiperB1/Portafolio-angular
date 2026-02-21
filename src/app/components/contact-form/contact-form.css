@@ -1,0 +1,19 @@
+.contact-forulary {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 1.3rem;
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.contact-forulary button {
+    border-radius: 10px;
+    border: 0;
+    padding: 0.3rem;
+    font-size: 1rem;
+    font-family: "VT323", monospace;
+    font-weight: 300;
+    font-style: normal;
+}
